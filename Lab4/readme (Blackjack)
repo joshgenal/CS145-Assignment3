@@ -8,7 +8,7 @@ Note: Blackjack.jave, Deck.java, and Card.java must all exist within the same fo
 
 Instructions: "Develop a card game using a stack and/or a queue. Suggestions include 21, Poker, Blackjack, etc. Kudo points for writing a program that uses both stacks and queues. Extra credit points for using switch/case, try-catch, and/or enum.  Kudo points to writing a user interface that is user-friendly and crash resistant.
 
-Additional Considerations: My instructor deducted 6 points of 20 (30%) from my last assignment for failing to include enough comments and for having lines that exceeded 100 characters, so I wanted to adjust for those expectations in this assignment. I apologize if that makes things a bit weirdly wrapped here or on your machine. 
+Additional Considerations: My instructor deducted 6 points of 20 (30%) from a past assignment for failing to include enough comments and for having lines that exceeded 100 characters, so I wanted to adjust for those expectations in this assignment. I apologize if that makes things a bit weirdly wrapped here or on your machine. 
 
 
 
