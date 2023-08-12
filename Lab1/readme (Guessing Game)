@@ -1,0 +1,8 @@
+Project: Guessing Game
+Rational: This was a java-based school project that I was tasked with.
+
+To use: Compile and run GuessingGame.java; interactions will take place via console.
+
+
+
+Instructions: Write a program that allows the user to play a simple guessing game in which your program thinks up an integer and allows the user to make guesses until the user gets it right. For each incorrect guess you will tell the user whether the right answer is higher or lower.
