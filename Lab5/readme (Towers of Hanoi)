@@ -1,0 +1,8 @@
+Project: Towers of Hanoi
+Rational: This was a java-based school project that I was tasked with.
+
+To use: Compile and run TowersOfHanoi.java; interactions will take place via console.
+
+
+
+Instructions: "Write a recursive program to solve the Towers of Hanoi puzzle.  The puzzle involves manipulating disks that you can move between 3 different towers.  You are given 4 disks stacked on three towers.  The disks have decreasing diameters, with the smallest disk on the top. "
