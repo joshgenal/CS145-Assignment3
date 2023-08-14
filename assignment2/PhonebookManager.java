@@ -10,8 +10,6 @@ the contact information.
 last updated 07/18/2023
 */
 
-package assignment2;
-
 public class PhonebookManager {
     private ListNode head; // Reference to the head of the linked list
 
