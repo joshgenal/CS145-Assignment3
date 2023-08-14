@@ -1,9 +1,9 @@
 /*
 Joshua Genal
-06/30/23
 CS &145
 Lab # 1: Guessing Game
-This program will allow the user to play a game in which they'll attempt to guess a randomly assigned integer and will receive feedback as to whether their guesses are higher or lower than the solution. They'll have 5 chances to succeed if they want to avoid a somewhat patronizing message. The game will offer to continue, will keep track of various statistics, and will spit them out in summary when the player quits.
+Last edited 08/14/2023
+Function: This program will allow the user to play a game in which they'll attempt to guess a randomly assigned integer and will receive feedback as to whether their guesses are higher or lower than the solution. They'll have 5 chances to succeed if they want to avoid a somewhat patronizing message. The game will offer to continue, will keep track of various statistics, and will spit them out in summary when the player quits.
 */
 import java.util.Scanner;
 
