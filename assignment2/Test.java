@@ -10,8 +10,6 @@ print the phonebook, and quit the program.
 last updated 07/18/2023
 */
 
-package assignment2;
-
 //menu version
 
 import java.util.Scanner;
