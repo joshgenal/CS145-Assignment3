@@ -1,0 +1,15 @@
+Project: Phonebook
+Rational: This was a java-based school project that I was tasked with.
+
+To use: Compile Test.java, PhonebookManager.java, and ListNode.java. Run PhonebookManager.java; interactions will take place via console.
+Note: All necessary files must all exist within the same folder.
+
+
+
+Instructions: "This program focuses on implementing a single linked list.  Turn in at least 2 files (classes).  You are welcome to add additional classes as you see fit. I prefer three; a ListNode, PhonebookManager, and a TestClass (with the main() method).
+
+Note that you will not be using Java's LinkedList class but making your own.
+
+The phone book node should contain at least first name, last name, address, city, and phone number fields in the phonebook node.
+
+The phonebook manager will allow you to either add an entry at the beginning, middle, or end of the node (name, address, city, phone #), as well as delete, and modify the fields. Finally, you should be able to print out your list in a nice format."
