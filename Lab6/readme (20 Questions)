@@ -1,0 +1,16 @@
+Project: 20 Questions
+Rational: This was a java-based school project that I was tasked with.
+
+To use: Compile QuestionMain.java, UserInterface.java, QuestionTree.java, and QuestionNode.java. Run QuestionMain.java; interactions will take place via console.
+Note: All necessary files must all exist within the same folder. QuestionMain.java and UserInterface.java were provided by the instructor. 
+
+
+
+Instructions: "Implement a yes/no guessing game called "20 Questions." Each round of the game begins by
+you (the human player) thinking of an object. The computer will try to guess your object by asking you a series of yes or
+no questions. Eventually the computer will have asked enough questions that it thinks it knows what object you are
+thinking of. It will make a guess about what your object is. If this guess is correct, the computer wins; if not, you win.
+The computer keeps track of a binary tree whose nodes represent questions and answers. (Every node's data is a string
+representing the text of the question or answer.) A "question" node contains a left "yes" subtree and a right "no" subtree.
+An "answer" node is a leaf. The idea is that this tree can be traversed to ask the human player a series of questions.
+(Though the game is called "20 Questions," our game will not limit the tree to a height of 20. Any height is allowed.)"
