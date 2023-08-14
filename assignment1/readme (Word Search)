@@ -1,0 +1,13 @@
+Project: Word Search
+Rational: This was a java-based school project that I was tasked with.
+
+To use: Compile and run WordSearch.java; interactions will take place via console.
+
+
+
+Instructions: "Create a program that takes in a certain number of words from the user and
+generates a word search using those words. Initially, your program should display an intro to
+the user describing what the program does. There should then be options for the user to select
+by typing in a letter. The user should be able to perform several actions during one run of your
+program."
+
