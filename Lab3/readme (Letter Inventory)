@@ -1,0 +1,9 @@
+Project: Letter Inventory
+Rational: This was a java-based school project that I was tasked with.
+
+To use: Compile LetterInventory.java and Main.java Run Main.java; interactions will take place via console.
+Note: All necessary files must all exist within the same folder.
+
+
+
+Instructions: "Implement a class called LetterInventory that can be used to keep track of an inventory of letters of the alphabet."
