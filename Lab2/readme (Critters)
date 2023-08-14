@@ -1,0 +1,9 @@
+Project: Critters
+Rational: This was a java-based school project that I was tasked with.
+
+To use: Compile the .java files located in critters.zip, as well as orca.java, giant.java, lion.java, and bear.java. Run main.java; interactions will take place via console.
+Note: All necessary files must all exist within the same folder.
+
+
+
+Instructions: "write a set of classes that define the behavior of certain animals. You will be given a program that runs a simulation of a world with many animals wandering around in it. Different kinds of animals will behave in different ways and you are defining those differences. In this world, animals propagate their species by infecting other animals with their DNA, which transforms the other animal into the infecting animal's species."
