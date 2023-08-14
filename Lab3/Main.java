@@ -1,3 +1,12 @@
+/*
+Joshua Genal
+CS &145
+Lab 3: Letter Inventory: Main
+last edited: 08/14/2023
+Function: Main used to test LetterInventory.java 
+*/
+
+
 public class Main {
     public static void main(String[] args) {
         // Create two strings
