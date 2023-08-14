@@ -9,8 +9,6 @@ reference to the next node.
 last updated 07/18/2023
 */
 
-package assignment2;
-
 public class ListNode {
     private PhonebookManager.ContactInfo data; // Data stored in the node
     private ListNode next; // Reference to the next node
